@@ -1,3 +1,6 @@
+
+# Again checking 
+
 #Program that documents and searches for stocks and can find higher priced stocks.
 
 #This function creates two lists, name of the stock and the price of the stock, and has the inputs from the user put in to them respectively.
